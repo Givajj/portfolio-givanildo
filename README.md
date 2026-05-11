@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Givanildo Silva Jr
 
-Projeto desenvolvido para a atividade prática da disciplina de Fundamentos da Programação Web.
+Projeto desenvolvido para a atividade prática da disciplina de Desenvolvimento Web.
 
 ## Tecnologias utilizadas
 - HTML5
